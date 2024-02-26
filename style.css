@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    border: 1px solid black;
+    background-color: rgb(244, 174, 174);
+}
+
+.header h1{
+    display: flex;
+    font-size: 90px;
+    justify-content: center;
+    margin: 0;
+}
+
+.box1{
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: lightyellow;
+}
+
+.news {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr td{
+    font-size: 30px;
+    font-weight: ld;
+    text-align: center;
+}
+
+.para{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+    font-size: 115px;
+    line-height: 100px;
+}
+
+.school{
+    font-size: 110px;
+}
+
+p{
+    text-align: left;
+}
+
+img{
+    width: 900px;
+    height: 600px;
+    margin-top: 0px;
+}
+
+figure{
+    float: right;
+}
+
+.content-container{
+    display: flex;
+}
+
+.image-description {
+    max-width: 900px; 
+    margin: 20px 0; 
+  }
+
+.image-description1 {
+    max-width: 900px; 
+    margin: 20px 0; 
+}
+
+.image-description2 {
+    max-width: 900px; 
+    margin: 20px 0; 
+}
+
+.image-description3 {
+    max-width: 900px; 
+    margin: 20px 0; 
+}
